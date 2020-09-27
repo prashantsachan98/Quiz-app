@@ -1,4 +1,4 @@
-# third_app
+# Quiz-app
 
 A new Flutter project.
 
